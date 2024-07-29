@@ -4,7 +4,7 @@
 	branch = HEAD
 [submodule "bispdep"]
 	path = bispdep
-	url = https://github.com/cran/bispdep
+	url = https://github.com/carlosm77/bispdep
 [submodule "geosptdb"]
 	path = geosptdb
 	url = https://github.com/cran/geosptdb
